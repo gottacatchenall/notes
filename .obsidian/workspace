@@ -1,0 +1,102 @@
+{
+  "main": {
+    "id": "8d2134c3a64b0744",
+    "type": "split",
+    "children": [
+      {
+        "id": "192db00c991a3676",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "computational_ecology.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "19b98502c32066f1",
+    "type": "split",
+    "children": [
+      {
+        "id": "241d1ddad5898f8c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0b510cec17d8a19c",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "25fb0091dcba8b9f",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "a77c5ff7e213b1d0",
+    "type": "split",
+    "children": [
+      {
+        "id": "01414227f1d7b82f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3d6f0d119debafd8",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "computational_ecology.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "192db00c991a3676",
+  "lastOpenFiles": [
+    "computational_ecology.md",
+    "community_ecology.md",
+    "community ecology.md",
+    "computational ecology.md",
+    "evolution.md",
+    "ecology.md",
+    "species.md",
+    "organism.md",
+    "Untitled.md",
+    "dynamics.md"
+  ]
+}
