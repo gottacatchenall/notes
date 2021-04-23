@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "192db00c991a3676",
+        "id": "0b5080b95643aa56",
         "type": "leaf",
         "state": {
           "type": "graph",
@@ -82,17 +82,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "192db00c991a3676",
+  "active": "0b5080b95643aa56",
   "lastOpenFiles": [
-    "Untitled.md",
-    "analysis.md",
-    "_index.md",
-    "algorithm.md.md",
-    "README.md",
-    "computer_science.md",
-    "markovchainmontecarlo.md",
-    "numerical_computing.md",
-    "ecology.md",
-    "mcmc.md"
+    "ecological_dynamics.md",
+    "statistical_event.md",
+    "species.md",
+    "population.md",
+    "pdf.md",
+    "organism.md",
+    "mutation.md",
+    "metacommunity_ecology.md",
+    "measure_theory.md",
+    "biology.md"
   ]
 }
