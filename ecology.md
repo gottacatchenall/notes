@@ -1,4 +1,7 @@
-The study of how [organisms](./organism.md) interact with one-another an their enviroment.
+
+
+
+The study of [ecosystems](./ecosystem.md) and how [organisms](./organism.md) interact with one-another an their enviroment.
 
 The concept of scale---spatial, temporal, organizational--- is ubiquitous in ecology. 
 

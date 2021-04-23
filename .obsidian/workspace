@@ -7,11 +7,8 @@
         "id": "192db00c991a3676",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "computational_ecology.md",
-            "mode": "source"
-          }
+          "type": "graph",
+          "state": {}
         }
       }
     ],
@@ -68,7 +65,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "computational_ecology.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +84,15 @@
   },
   "active": "192db00c991a3676",
   "lastOpenFiles": [
-    "computational_ecology.md",
-    "community_ecology.md",
-    "community ecology.md",
-    "computational ecology.md",
-    "evolution.md",
-    "ecology.md",
-    "species.md",
-    "organism.md",
     "Untitled.md",
-    "dynamics.md"
+    "analysis.md",
+    "_index.md",
+    "algorithm.md.md",
+    "README.md",
+    "computer_science.md",
+    "markovchainmontecarlo.md",
+    "numerical_computing.md",
+    "ecology.md",
+    "mcmc.md"
   ]
 }
