@@ -10,6 +10,17 @@
           "type": "graph",
           "state": {}
         }
+      },
+      {
+        "id": "7b782183dd02972d",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Untitled.md",
+            "mode": "source"
+          }
+        }
       }
     ],
     "direction": "vertical"
@@ -65,6 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -82,17 +94,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "0b5080b95643aa56",
+  "active": "7b782183dd02972d",
   "lastOpenFiles": [
+    "Untitled.md",
+    "Untitled 1.md",
+    "sigma_algebra.md",
+    "metacommunity_ecology.md",
+    "bayesian_statistics.md",
     "ecological_dynamics.md",
-    "statistical_event.md",
     "species.md",
-    "population.md",
     "pdf.md",
     "organism.md",
-    "mutation.md",
-    "metacommunity_ecology.md",
-    "measure_theory.md",
-    "biology.md"
+    "measure.md"
   ]
 }

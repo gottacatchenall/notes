@@ -10,7 +10,7 @@ The concept of scale---spatial, temporal, organizational--- is ubiquitous in eco
 ### By organizational scale
 - [Behavioral ecology](./behavioral_ecology.md)
 - [Population ecology](./population_ecology.md)
-- [Community ecology](./community_ecology.md), see also [Metacommunity ecology](./metacommunity_ecology.md)
+- [Community ecology](./community_ecology.md), see also [Metacommunity ecology](metacommunity_ecology.md)
 - [Ecosystem ecology](./ecosystem_ecology.md)
 
 

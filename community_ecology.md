@@ -14,4 +14,4 @@ A subfield of [ecology](./ecology.md)
 
 
 
-see also [metacommunity ecology](./metacommunity_ecology.md)
+see also [metacommunity ecology](metacommunity_ecology.md)
