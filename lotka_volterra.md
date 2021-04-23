@@ -1,0 +1,1 @@
+The Lotka-Volterra system is a system of coupled [differential equations](./differential_equation.md), originally used to model the behavior of consumer and resource in [community ecology](./community_ecology.md). It is one of the earliest attempts to apply mathematics, in particular [dynamics](./dynamics.md), to [ecology](./ecology.md)
