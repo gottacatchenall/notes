@@ -1,0 +1,1 @@
+In [[mathematics]], a space or object is said to be **convex** if all points in the space are reachable from all other points via a geodesic (typically a straight line in Eucliean spaces).

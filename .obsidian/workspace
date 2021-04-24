@@ -4,23 +4,51 @@
     "type": "split",
     "children": [
       {
-        "id": "0b5080b95643aa56",
-        "type": "leaf",
-        "state": {
-          "type": "graph",
-          "state": {}
-        }
-      },
-      {
-        "id": "7b782183dd02972d",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Untitled.md",
-            "mode": "source"
+        "id": "dceeb1d341672801",
+        "type": "split",
+        "children": [
+          {
+            "id": "eb684317767480a2",
+            "type": "split",
+            "children": [
+              {
+                "id": "18fd84a0ed532f46",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "network_modularity.md",
+                    "mode": "source"
+                  }
+                },
+                "group": "ddbe4d4fed1ff242"
+              },
+              {
+                "id": "addce38f82d88263",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "network_modularity.md",
+                    "mode": "preview"
+                  }
+                },
+                "group": "ddbe4d4fed1ff242"
+              }
+            ],
+            "direction": "horizontal"
+          },
+          {
+            "id": "8638b7ccd8bdef07",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            },
+            "group": "ddbe4d4fed1ff242"
           }
-        }
+        ],
+        "direction": "vertical"
       }
     ],
     "direction": "vertical"
@@ -60,7 +88,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "a77c5ff7e213b1d0",
@@ -76,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled.md",
+                "file": "network_modularity.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,17 +123,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "7b782183dd02972d",
+  "active": "18fd84a0ed532f46",
   "lastOpenFiles": [
-    "Untitled.md",
-    "Untitled 1.md",
-    "sigma_algebra.md",
-    "metacommunity_ecology.md",
+    "network_modularity.md",
+    "network.md",
+    "metropolis_hastings.md",
+    "dispersal.md",
+    "algebra.md",
+    "algorithm.md",
+    "analysis.md",
     "bayesian_statistics.md",
-    "ecological_dynamics.md",
-    "species.md",
-    "pdf.md",
-    "organism.md",
-    "measure.md"
+    "cdf.md",
+    "limit_cycle.md"
   ]
 }

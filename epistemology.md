@@ -1,0 +1,1 @@
+Epistemology is the branch of [philosophy](./philosophy.md) that deals with study of knowledge. 

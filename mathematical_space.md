@@ -1,0 +1,1 @@
+In [[mathematics]], a space is an abstract notion that defined by a set. 

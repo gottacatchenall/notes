@@ -1,0 +1,1 @@
+A phylogenetic tree (or phylogeny) is a graphic representation of a hypothesized relationship among a set of individual [organisms](./organism.md) or [taxa](./species.md)

@@ -1,8 +1,7 @@
 
 Evolution is the process where the composition of a [trait](./trait.md) in a [population](population.md) of [organisms](organism.md) changes over time.
 
-As it relates to change over time, the study of evolution is inherently a study of 
-[dynamics](dynamics.md).
+As it involves understanding change over time, evolution is inherently related to the study of [dynamics](dynamics.md).
 
 
 # History

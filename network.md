@@ -1,0 +1,1 @@
+A network is an abstract representation of a system consisting of [[discrete]] objects (nodes) connected by edges (also called: links). 
