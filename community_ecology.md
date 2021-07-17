@@ -11,7 +11,13 @@ A subfield of [ecology](./ecology.md)
 4. [speciation](./speciation.md)
 
 
+The structure of interactions between species are conceptualized as 
+an [[ecological network]].
 
 
+
+## Theories of [[community_assembly]]
 
 see also [metacommunity ecology](metacommunity_ecology.md)
+
+

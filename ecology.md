@@ -5,6 +5,10 @@ The study of [ecosystems](ecosystem.md) and how [organisms](./organism.md) inter
 
 The concept of scale---spatial, temporal, organizational--- is ubiquitous in ecology. 
 
+## Major Concepts
+
+[[Ecosystem Functioning]]
+
 ## Subfields
 
 ### By organizational scale
