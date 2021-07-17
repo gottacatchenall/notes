@@ -1,1 +1,0 @@
-A distribution is a concept in [statistics](./statistics.md) and [probability](./probability.md)

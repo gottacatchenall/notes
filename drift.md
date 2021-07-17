@@ -1,1 +1,0 @@
-Drift is an ecological and evolutionary process by which random events drive [change in ecological and evolutionary systems over time](./ecological_dynamics.md)epistemology

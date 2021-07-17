@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "f41795baf2885ba5",
+        "id": "db392101f030d7ca",
         "type": "leaf",
         "state": {
           "type": "graph",
@@ -82,17 +82,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "f41795baf2885ba5",
+  "active": "db392101f030d7ca",
   "lastOpenFiles": [
-    "ecological network.md",
-    "community_ecology.md",
-    "ecology.md",
-    "Biodviersity-Ecosystem-Functioning Relationship.md",
-    "Ecosystem Functioning.md",
+    "_index.md",
     "algebra.md",
-    "computational_ecology.md",
+    "approximate_bayesian_computation.md",
+    "biodiversity_ecosystem_functioning.md",
     "community_assembly.md",
-    "bayesian_statistics.md",
-    "analysis.md"
+    "computational_ecology.md",
+    "Untitled.md",
+    "optimization.md",
+    "algorithm.md",
+    "bayesian_statistics.md"
   ]
 }

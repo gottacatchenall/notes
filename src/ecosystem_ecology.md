@@ -1,0 +1,2 @@
+
+[Ecosystem ecology](ecosystem_ecology.md) in particular is that study of the conbined effect of biotic and abiotic process on ecosystem function. It often, but not always involves [biogeochemistry](./biogeochemisty.md).

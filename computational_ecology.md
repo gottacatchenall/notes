@@ -1,1 +1,0 @@
-The use of [scientific computing](./scientific_computing.md) as applied to [ecology](./ecology.md)

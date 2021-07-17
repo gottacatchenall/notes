@@ -1,1 +1,0 @@
-A sample [space](./mathematical_space.md)

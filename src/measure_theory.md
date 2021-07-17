@@ -1,0 +1,1 @@
+Measure-theory is the subfield of [mathematics](mathematics.md) dealting with [measures](measure.md). Often applied in [probability theory](probability.md)

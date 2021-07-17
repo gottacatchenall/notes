@@ -1,17 +1,16 @@
 # Topics
 
-## [Mathematics](./mathematics.md)
+## [[mathematics | Mathematics]]
 
-## [Ecology](./ecology.md)
-= [[ecosystem]], [[computational_ecology]]
+## [[ecology | Ecology ]] 
+- [[ecosystem]], [[computational_ecology]]
 
-## [Evolutionary Biology](evolution.md)
- [[evolution]]
+## [[evolution | Evolutionary Biology ]]
 
-## [Computer Science](./computer_science.md)
-- Algorithms
-- Numerical Methods
+## [[computer_science| Computer Science]]
+- [[algorithm]]
+- [[numerical_computing]]
 
-## [Philosophy](./philosophy.md)
-- [Philosophy of Science](./philosophy_of_science.md)
-- [Epistemology](./epistemology.md)
+## [[Philosophy]]
+- [Philosophy of Science](philosophy_of_science.md)
+- [Epistemology](epistemology.md)

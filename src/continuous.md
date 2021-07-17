@@ -1,0 +1,1 @@
+In [mathematics](mathematics.md), an object is continuous if it exists of a continuum of [[uncountable_infinity | uncountably infinite]]
